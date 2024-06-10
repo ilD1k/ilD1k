@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilD1k
-- 🌱 I’m currently learning python and golang
+- 🌱 Python and go lang developer
 
 ![image](https://github.com/ilD1k/ilD1k/assets/151182252/d948d759-ecf6-4f67-acd6-52a3709ab7d5)
 
